@@ -1,0 +1,10 @@
+{
+    "require": {
+        "giggsey/libphonenumber-for-php": "^8.13",
+        "cron/cron": "^1.9",
+        "dragonmantank/cron-expression": "^3.3",
+        "mtdowling/cron-expression": "*",
+        "phpmailer/phpmailer": "^6.9",
+        "hellogerard/jobby": "^2.2"
+    }
+}
